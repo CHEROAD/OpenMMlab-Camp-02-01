@@ -15,6 +15,7 @@
 最后一轮测试集评价指标
 ![image](https://github.com/CHEROAD/OpenMMlab-Camp-02-01/assets/105981758/6aaa9ecb-80c7-4b72-9619-6a4c84b3478b)
 其中最好的是在第200epoch
+
 ![image](https://github.com/CHEROAD/OpenMMlab-Camp-02-01/assets/105981758/032190b0-fde9-4696-9432-fbcb7f901abd)
 ### 单张图片测试结果
 ![IMG_0830](https://github.com/CHEROAD/OpenMMlab-Camp-02-01/assets/105981758/9ebcda1e-7135-4b10-9235-559674259057)
